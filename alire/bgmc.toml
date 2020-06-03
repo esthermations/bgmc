@@ -1,0 +1,8 @@
+["0.0.0"]
+origin = "file://.."
+[general]
+description = "Big Gay Mining Co."
+maintainers = [ "esther@okeefe.earth", ]
+maintainers-logins = [ "esthermations", ]
+executables = "bgmc-main"
+
